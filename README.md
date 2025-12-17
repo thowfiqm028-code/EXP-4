@@ -39,6 +39,8 @@ CIRCUIT DIAGRAMS
 Half wave rectifier:
 ![4 graph](https://github.com/user-attachments/assets/ff0fc285-269a-40df-8f44-518e2a38b9c6)
 
+
+
 Wave form:
 ![half wave](https://github.com/user-attachments/assets/300c02b8-642b-41f8-9677-3ef1dcbd8360)
 
