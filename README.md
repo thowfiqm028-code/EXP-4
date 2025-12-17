@@ -36,18 +36,73 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier:
+![4 graph](https://github.com/user-attachments/assets/ff0fc285-269a-40df-8f44-518e2a38b9c6)
 
-Bridge rectifier with filter:
+Wave form:
+![half wave](https://github.com/user-attachments/assets/300c02b8-642b-41f8-9677-3ef1dcbd8360)
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+Tabular coloumn:
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th rowspan="2" colspan="2">Input Voltage</th>
+    <th colspan="4">Output Voltage</th>
+  </tr>
+  <tr>
+    <th colspan="2">Without Filter</th>
+    <th colspan="2">With Filter</th>
+  </tr>
+  <tr>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>20</td>
+    <td>100</td>
+    <td>10</td>
+    <td>100V, 5V</td>
+    <td>5 ms, 25 ms</td>
+  </tr>
+</table>
 
-WAVEFORM:
+Full wave rectifier:
+![4 graph ](https://github.com/user-attachments/assets/ec633027-5424-4184-bb3a-a2ad7ae9c105)
 
+Wave form:
+![full wave form](https://github.com/user-attachments/assets/bc4ae188-becd-4780-a45e-6e59897a4788)
 
+Tabular coloumn:
+<table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th rowspan="2" colspan="2">Input Voltage</th>
+    <th colspan="4">Output Voltage</th>
+  </tr>
+  <tr>
+    <th colspan="2">Without Filter</th>
+    <th colspan="2">With Filter</th>
+  </tr>
+  <tr>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>20</td>
+    <td>50</td>
+    <td>5</td>
+    <td>50, 46</td>
+    <td>5 ms, 14 ms</td>
+  </tr>
+</table>
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
